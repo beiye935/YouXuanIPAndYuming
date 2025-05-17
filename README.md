@@ -1,11 +1,10 @@
-#优选IP和域名
-# Cloudflare的优选域名和IP
+#优选IP和域名，都在项目里。
+# Cloudflare的优选域名
 优选域名如下
 
-- 移动: https://yd.xxxxxxxx.tk 或 https://cm.xxxxxxxx.tk 
-- 联通: https://lt.xxxxxxxx.tk 或 https://cu.xxxxxxxx.tk  ***最佳推荐!!!***
-- 电信: https://dx.xxxxxxxx.tk 或 https://ct.xxxxxxxx.tk 
-- 国内通用: https://cn.xxxxxxxx.tk
-- https://cf.090227.xyz/
+- Cloudflare系统【大佬维护】 : https://cdn.7zz.cn/
+- 大佬维护: cloudflare.182682.xyz  ***最佳推荐!!!***
+- 个人维护: cfapi.920329.xyz
+- 大佬维护:https://cf.090227.xyz/
 
 
