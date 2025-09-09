@@ -12,3 +12,5 @@
 # 发布CloudFlare优选IP的网站
 - https://api.uouin.com/cloudflare.html （提供电信、联通、移动的优质CloudFlare节点IP，每10分钟更新一次）
 - https://www.wetest.vip/page/cloudflare/address_v4.ht （提供电信、联通、移动的优质CloudFlare节点IP）
+- https://raw.githubusercontent.com/NiREvil/vless/refs/heads/main/sub/Cf-ipv4.json
+- https://raw.githubusercontent.com/NiREvil/vless/refs/heads/main/sub/Cf-ipv6.json
