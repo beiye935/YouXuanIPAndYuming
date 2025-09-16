@@ -10,12 +10,12 @@ www.visa.co.ke
 www.visa.co.in
 www.visa.ca
 www.visa.com.ai
+africa.visa.com
 caribbean.visa.com
 pages.dev
 store.epicgames.com
 www.epicgames.com
 www.fortnite.com
-africa.visa.com
 visaeurope.at
 qa.visamiddleeast.com
 time.is
@@ -152,5 +152,6 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
