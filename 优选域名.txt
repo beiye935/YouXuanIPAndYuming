@@ -139,9 +139,7 @@ anycast.com
 cffast.wawacm.com
 cfcnc.cdnddd.com
 dos-op.io
-www.it7.net
 www.noi.org
-89d.com
 www.89d.com
 download.redis.io
 www.vitagreen.com
