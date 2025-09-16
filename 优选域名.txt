@@ -1,3 +1,4 @@
+www.speedtest.net
 ips.993888.xyz
 whatismyipaddress.com
 ip.skk.moe
@@ -152,6 +153,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
