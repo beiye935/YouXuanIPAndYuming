@@ -4,7 +4,6 @@
 优选域名如下
 
 - Cloudflare系统【大佬维护】 : https://cdn.7zz.cn/ ***最佳推荐!!!***
-- Cloudflare优选域名:https://github.com/beiye935/YouXuanIPAndYuming/blob/main/%E4%BC%98%E9%80%89%E5%9F%9F%E5%90%8D.txt ***最佳推荐!!!***
 - 大佬维护: *.cloudflare.182682.xyz（ 第三方维护，前缀可自定义）
 - 大佬维护: *.cf.959923.xyz（ 第三方维护，前缀可自定义）
 - 大佬维护: *.cf.cname.vvhan.com（ 第三方维护，前缀可自定义）
