@@ -1,3 +1,4 @@
+www.moodys.com
 www.sapaad.com
 cdn.netflixgc.xyz
 www.worldlearning.org
@@ -162,6 +163,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
