@@ -1,3 +1,4 @@
+singgcdn.singgnetworkcdn.com
 www.moodys.com
 www.sapaad.com
 cdn.netflixgc.xyz
@@ -163,6 +164,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
