@@ -1,5 +1,6 @@
 alla.ns.cloudflare.com
 kipp.ns.cloudflare.com
+nina.ns.clodflare.com
 josh.ns.Cloudflare.com
 rayne.ns.cloudflare.com
 dorthy.ns.cloudflare.com
@@ -174,4 +175,5 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
