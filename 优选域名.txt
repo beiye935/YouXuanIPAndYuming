@@ -1,3 +1,6 @@
+rayne.ns.cloudflare.com
+princess.ns.cloudflare.com
+magali.ns.cloudflare.com
 singgcdn.singgnetworkcdn.com
 www.moodys.com
 www.sapaad.com
@@ -164,6 +167,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
