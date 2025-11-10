@@ -1,5 +1,8 @@
 rayne.ns.cloudflare.com
+dorthy.ns.cloudflare.com
 vern.ns.cloudflare.com
+alec.ns.cloudflare.com
+kate.ns.cloudflare.com
 princess.ns.cloudflare.com
 magali.ns.cloudflare.com
 singgcdn.singgnetworkcdn.com
@@ -168,6 +171,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
