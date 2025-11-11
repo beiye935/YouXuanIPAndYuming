@@ -1,5 +1,6 @@
-fonzie.ns.cloudflare.com
+cloudflare.cdnjson.com
 ks5555555.com
+fonzie.ns.cloudflare.com
 henrik.ns.cloudflare.com
 lola.ns.cloudflare.com
 alla.ns.cloudflare.com
@@ -178,6 +179,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
