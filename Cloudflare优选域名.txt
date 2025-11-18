@@ -1,3 +1,4 @@
+usa.visa.com
 saas.sin.fan
 cloudflare.cdnjson.com
 cmcc.877774.xyz
@@ -182,6 +183,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
