@@ -1,3 +1,4 @@
+www.freedidi.com
 usa.visa.com
 saas.sin.fan
 cloudflare.cdnjson.com
@@ -183,6 +184,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
