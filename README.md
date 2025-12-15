@@ -11,6 +11,7 @@
 - 大佬维护:   cf.090227.xyz
 - 大佬维护:   ips.993888.xyz
 - 大佬维护:   bestcf.030101.xyz
+- CF官方：cloudflare-dns.com
 
 # 发布CloudFlare优选IP的网站
 - https://api.uouin.com/cloudflare.html （提供电信、联通、移动的优质CloudFlare节点IP，每10分钟更新一次）
