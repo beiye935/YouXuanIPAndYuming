@@ -13,6 +13,8 @@ cmcc.877774.xyz
 ct.877774.xyz
 ks5555555.com
 tani.ns.cloudflare.com
+toby.ns.cloudflare.com
+evangeline.ns.cloudflare.com
 fonzie.ns.cloudflare.com
 henrik.ns.cloudflare.com
 lola.ns.cloudflare.com
@@ -192,3 +194,4 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
