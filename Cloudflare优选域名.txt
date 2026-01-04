@@ -28,13 +28,13 @@ alec.ns.cloudflare.com
 kate.ns.cloudflare.com
 princess.ns.cloudflare.com
 magali.ns.cloudflare.com
+damon.ns.cloudflare.com
+kara.ns.cloudflare.com
 singgcdn.singgnetworkcdn.com
 www.moodys.com
 www.sapaad.com
 cdn.netflixgc.xyz
 www.worldlearning.org
-damon.ns.cloudflare.com
-kara.ns.cloudflare.com
 bestcf.030101.xyz
 1357900.xyz
 dm84.net
@@ -194,4 +194,5 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
