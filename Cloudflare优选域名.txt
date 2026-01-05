@@ -15,6 +15,8 @@ ns5.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 tls.cloudflare-dns.com
 v6.cloudflare-dns.com
+v4.cloudflare-dns.com
+odoh.cloudflare-dns.com
 openapi.973973.xyz
 sheetdb.io
 www.shopify.com
@@ -210,6 +212,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
