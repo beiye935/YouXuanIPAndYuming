@@ -1,3 +1,4 @@
+cf.636949.xyz
 cloudflare-dns.com
 www.cloudflare-dns.com
 dns.cloudflare-dns.com
@@ -212,6 +213,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
