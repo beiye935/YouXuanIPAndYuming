@@ -1,5 +1,6 @@
 deliveroo.co.uk
 deliveroo.com.kw
+www.qualcomm.com
 hostinger.in
 cf.636949.xyz
 cf.877774.xyz
@@ -204,6 +205,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
