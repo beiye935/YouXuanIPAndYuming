@@ -1,6 +1,7 @@
 cf.636949.xyz
 cf.877774.xyz
 cloudflare-dns.com
+cdns.doon.eu.org
 www.cloudflare-dns.com
 openapi.973973.xyz
 sheetdb.io
@@ -199,6 +200,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
