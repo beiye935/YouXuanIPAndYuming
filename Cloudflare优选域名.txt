@@ -2,23 +2,6 @@ cf.636949.xyz
 cf.877774.xyz
 cloudflare-dns.com
 www.cloudflare-dns.com
-dns.cloudflare-dns.com
-us.cloudflare-dns.com
-hk.cloudflare-dns.com
-cn.cloudflare-dns.com
-ns4.cloudflare-dns.com
-ns.cloudflare-dns.com
-jp.cloudflare-dns.com
-google.cloudflare-dns.com
-ltz-test.cloudflare-dns.com
-ns7.cloudflare-dns.com
-ns6.cloudflare-dns.com
-ns5.cloudflare-dns.com
-mozilla.cloudflare-dns.com
-tls.cloudflare-dns.com
-v6.cloudflare-dns.com
-v4.cloudflare-dns.com
-odoh.cloudflare-dns.com
 openapi.973973.xyz
 sheetdb.io
 www.shopify.com
@@ -214,6 +197,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
