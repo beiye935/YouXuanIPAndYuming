@@ -24,8 +24,6 @@ polestar.com
 www.casetify.com
 casetify.com
 goremountain.com
-deliveroo.co.uk
-deliveroo.com.kw
 www.qualcomm.com
 hostinger.in
 cf.636949.xyz
@@ -231,6 +229,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
