@@ -1,3 +1,4 @@
+store.ubi.com
 openai.com
 www.mnn.tw
 blog.646474.xyz
@@ -241,6 +242,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
