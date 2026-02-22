@@ -2,6 +2,8 @@ coori.cloudflareaccess.com
 staticdelivery.nexusmods.com
 www.nexusmods.com
 store.ubi.com
+ssh.awcode.cn
+cfyx.aliyun.20237737.xyz
 openai.com
 www.mnn.tw
 blog.646474.xyz
@@ -245,6 +247,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
