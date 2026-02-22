@@ -1,4 +1,6 @@
 links1.cloudflare.com
+cfcname.cdn.urlce.com
+cfcdn.api.urlce.com
 singgcdn.singgnetworkcdn.com
 coori.cloudflareaccess.com
 staticdelivery.nexusmods.com
@@ -249,5 +251,6 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
