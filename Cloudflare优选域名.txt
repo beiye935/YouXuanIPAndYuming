@@ -1,3 +1,4 @@
+coori.cloudflareaccess.com
 staticdelivery.nexusmods.com
 www.nexusmods.com
 store.ubi.com
@@ -244,6 +245,7 @@ haven1.tokensoft.io
 binary.lge.modcdn.io
 nexusmods.com
 www.it7.net
+
 
 
 
