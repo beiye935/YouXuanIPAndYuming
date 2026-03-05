@@ -11,6 +11,7 @@
 - 大佬维护:   cf.090227.xyz
 - 大佬维护:   ips.993888.xyz
 - 大佬维护:   bestcf.030101.xyz
+- 大佬维护:   1357900.xyz
 - CF官方：    dns.cloudflare-dns.com
 
 # 发布CloudFlare优选IP的网站
