@@ -72,6 +72,7 @@ cloudflare.cdnjson.com
 cmcc.877774.xyz
 ct.877774.xyz
 ks5555555.com
+zac.ns.cloudflare.com
 pete.ns.cloudflare.com
 ken.ns.cloudflare.com
 tani.ns.cloudflare.com
