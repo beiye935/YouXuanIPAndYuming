@@ -73,6 +73,8 @@ cmcc.877774.xyz
 ct.877774.xyz
 ks5555555.com
 gerald.ns.cloudflare.com
+daisy.ns.cloudflare.com
+adam.ns.cloudflare.com
 melany.ns.cloudflare.com
 sri.ns.cloudflare.com
 luciane.ns.cloudflare.com
