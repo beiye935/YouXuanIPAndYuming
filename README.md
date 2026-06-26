@@ -26,4 +26,4 @@
 - https://raw.githubusercontent.com/NiREvil/vless/refs/heads/main/sub/Cf-ipv4.json
 - https://raw.githubusercontent.com/NiREvil/vless/refs/heads/main/sub/Cf-ipv6.json
 # 每日节点
-https://github.com/NiREvil/vless/tree/main/sub
+https://proxy.api.030101.xyz/https://sub.ccpc.de5.net/sub?token=b32603fe420d88f0d0435071bdeb76cf
