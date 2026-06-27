@@ -1,4 +1,5 @@
 dashboard.katabump.com
+www.ox.ac.uk
 cdn.alt-mp.com
 altv.mp
 dimensionet.com
@@ -141,6 +142,8 @@ www.wto.org
 icook.hk
 icook.tw
 visamiddleeast.com
+r2.dev
+cloudflare-ech.com
 portal.cloudflarepartners.com
 support.cloudflarewarp.com
 developers.cloudflare.com
@@ -149,6 +152,8 @@ try.cloudflare.com
 blog.cloudflare.com
 community.cloudflare.com
 abuse.cloudflare.com
+cloudflare.dev
+cloudflare.net
 sso.cloudflare.dev
 ns5.cloudflare.com
 ns6.cloudflare.com
