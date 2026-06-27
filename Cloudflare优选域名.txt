@@ -1,4 +1,5 @@
 dashboard.katabump.com
+serviceshub.samsclub.com
 www.ox.ac.uk
 cdn.alt-mp.com
 altv.mp
