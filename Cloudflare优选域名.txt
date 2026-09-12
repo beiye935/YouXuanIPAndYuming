@@ -80,6 +80,8 @@ cmcc.877774.xyz
 ct.877774.xyz
 ks5555555.com
 evan.ns.cloudflare.com
+mack.ns.cloudflare.com
+martha.ns.cloudflare.com
 hadlee.ns.cloudflare.com
 gerald.ns.cloudflare.com
 daisy.ns.cloudflare.com
