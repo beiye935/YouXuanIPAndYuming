@@ -8,6 +8,7 @@ hk.cle.us.ci
 360jp3.ihom.eu.org
 360jp2.ihom.eu.org
 360jp1.ihom.eu.org
+hkdns.ydns.eu
 www.glassdoor.com
 dashboard.katabump.com
 my.racknerd.com
