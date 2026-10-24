@@ -19,6 +19,7 @@ replit.com
 www.w3.org
 proxyip.cmliussss.net
 serviceshub.samsclub.com
+ns.dnsspeed.top
 www.ox.ac.uk
 cdn.alt-mp.com
 altv.mp
