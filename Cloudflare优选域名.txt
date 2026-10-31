@@ -1,3 +1,4 @@
+blog.haoi.net
 www.knvod.com
 auth.udacity.com
 9a.dnsapi123.com
