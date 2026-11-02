@@ -12,7 +12,8 @@
 - 大佬维护:    bestcf.030101.xyz ***最佳推荐!!!***
 - 大佬维护:    ns.dnsspeed.top ***最佳推荐!!!***
 
-- CF官方：
+CF官方：
+
 - dns.cloudflare-dns.com
 - coori.cloudflareaccess.com
 - links1.cloudflare.com
@@ -20,7 +21,8 @@
 - 162.159.38.0/23
 - 162.159.44.0/23
 - 172.64.52.0/23
-- 大厂：
+  
+大厂
 - www.shopify.com
    
              
