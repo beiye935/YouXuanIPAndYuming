@@ -14,9 +14,12 @@
 
 CF官方：
 
-- dns.cloudflare-dns.com
-- coori.cloudflareaccess.com
 - links1.cloudflare.com
+- speed.cloudflare.com
+- cdnjs.cloudflare.com
+- workers.cloudflare.com
+- coori.cloudflareaccess.com
+- dns.cloudflare-dns.com
 - 108.162.198.0/24
 - 162.159.38.0/23
 - 162.159.44.0/23
