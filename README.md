@@ -29,7 +29,7 @@ CF官方：
 - www.shopify.com
 
 SUB订阅器
-大佬：sub.danfeng.eu.org
+- 大佬：sub.danfeng.eu.org
    
              
 
